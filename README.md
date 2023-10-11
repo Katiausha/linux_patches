@@ -31,4 +31,5 @@
 ### Projects 👾
 
 🟦 CSR Patch [ARCH=6.1.1] | Working on!
-❔ What is CSR Patch? Making Linux play nice with CSR clones, on kernels version 6.1.1 for seamless compatibility.
+❔ What is CSR Patch?
+Making Linux play nice with CSR clones, on kernels version 6.1.1 for seamless compatibility.
