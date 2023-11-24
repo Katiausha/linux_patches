@@ -1,4 +1,4 @@
-## Yummy_Unix | Linux Patches 🐧
+## Katarina's | Linux Patches 🐧
 
 ### About Me 🚀
 
