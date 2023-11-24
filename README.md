@@ -2,8 +2,6 @@
 
 ### About Me 🚀
 
-👋 Hello, I'm **Yummy_Unix**!
-
 🛠️ Passionate about Linux and open-source software.
 
 🧩 Crafting Linux patches for firmwares and more.
